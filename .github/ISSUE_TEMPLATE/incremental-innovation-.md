@@ -2,8 +2,8 @@
 name: 'Incremental Innovation '
 about: Incremental innovations are new ideas but do not require significant changes
   to how an organisation operates
-title: ''
-labels: ''
+title: Incremental
+labels: incremental
 assignees: ''
 
 ---
