@@ -1,38 +1,23 @@
 ---
 name: Semi-Radical Innovation
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: A new idea that requires a change in how an organisation operates (its business model), processes, services or products. 
+title: 'Semi-Radical'
+labels: 'semi-radical'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the idea**
+A clear and concise description of what the idea is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**To implement**
+Steps or ways in which this solution can be implemented or scaled within teams.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Value or Behaviour improvement**
+A clear and concise description of what value or behavioural change you expect coming out of implementing or realising this idea.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Existing implementation**
+Is there any existing implementation (Open source or Commercial)/(partial or fully) aligned to this idea.
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the solution/approach here.

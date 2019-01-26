@@ -1,38 +1,25 @@
 ---
 name: Gig - Help Wanted
-about: Create a report to help us improve
-title: ''
+about: Have a Idea, request teams/engineers to help come-up with spike.
+title: 'Gig'
 labels: help wanted
 assignees: ''
 
 ---
+**Describe the idea**
+A clear and concise description of what the idea is.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**To implement**
+Steps or ways in which this solution can be implemented or scaled within teams.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Value or Behaviour improvement**
+A clear and concise description of what value or behavioural change you expect coming out of implementing or realising this idea.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Existing implementation**
+Is there any existing implementation (Open source or Commercial)/(partial or fully) aligned to this idea.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Time Duration**
+Share anticipated time and skillset required to implement this solution.
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the solution/approach here.
