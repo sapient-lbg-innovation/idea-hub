@@ -24,11 +24,17 @@ Idea hub is all about enabling engineering community to creatively think on core
 
 # Ideation Workflow
 
-1. Capturing and categorising the idea
+1. Capturing and categorising the idea:
+   * We will use [Github issues](https://github.com/sapient-lbg-innovation/idea-hub/issues) against Idea Hub repository to capture ideas.
+   * Ideas are categorised into four:
+      * **Gig:** Have an Idea, request teams/engineers to help come-up with a spike
+      * **Incremental innovation:** are new ideas but do not require significant changes to how an organisation operates
+      * **Semi-Radical Innovation:** A new idea that requires a change in how an organisation operates (its business model),             processes, services or products.
+      * **Radical Innovation:** Entirely changes how an organisation operates as it requires new knowledge and skills and               renders current products, services, processes etc obsolete
 
-2. Guild review and decision process
-3. Engagement from community and funding
-4. Recognition and Reward framework
+2. Guild review and decision process (WIP)
+3. Engagement from community and funding (WIP)
+4. Recognition and Reward framework (WIP)
 
 
 
