@@ -35,7 +35,7 @@ Idea hub is all about enabling engineering community to creatively think on core
 2. Guild review and decision process (WIP)
 3. Engagement from community and funding (WIP)
 4. Recognition and Reward framework (WIP)
-
+![](https://github.com/sapient-lbg-innovation/idea-hub/blob/master/ideaflow.2019-02-03%2023_28_24.gif)
 
 
 
