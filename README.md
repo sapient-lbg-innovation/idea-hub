@@ -24,7 +24,7 @@ Idea hub is all about enabling engineering community to creatively think on core
 
 # Ideation Workflow
 
-![](https://github.com/sapient-lbg-innovation/idea-hub/blob/master/ideaflow.2019-02-03%2023_41_38.gif)
+![](https://github.com/sapient-lbg-innovation/idea-hub/blob/master/ideaflow.2019-02-03%2023_52_07.gif)
 
 
 
